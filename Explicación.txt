@@ -1,0 +1,7 @@
+El objetivo del proyecto es crear una tabla de tipos, precios y memoria de un disco duro sólido de entrada M.2
+
+URL = 'https://www.chollometro.com/search?q=disco%20solido%20m.2'
+
+Para ello uso las librerías BeautifulSoup y Selenium.
+    1) Copio y manipulo el código fuente de la URL
+    2) Paso por un navegador de búsqueda en la URL, para no ser expulsado.
